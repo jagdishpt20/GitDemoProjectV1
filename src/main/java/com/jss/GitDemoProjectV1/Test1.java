@@ -13,7 +13,7 @@ public class Test1
     		System.out.println("Please eat something");
     	}
     	else {
-    		System.out.println("Do work...");
+    		System.out.println("Hungrya kiti khashil");
     	}
     }
 }
